@@ -24,3 +24,5 @@ The game has two levels. I am going to explain them one by one;
   * <b>Goal is you have to successfully guess which glass is fragile and which glass is not and walk cross the path by walk over the glasses which is not breakable.</b>
   
 ## Sources
+
+* I get my animation and human model from [Mixamo](https://www.mixamo.com/#/)
