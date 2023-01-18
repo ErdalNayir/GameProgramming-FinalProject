@@ -1,6 +1,6 @@
 # GameProgramming-FinalProject
 
-This project has been developed by Erdal NAYİR and Yakup Abaci for game programming class. 
+This project has been developed by Erdal NAYİR and Yakup Abaci for game programming class. <br />
 <b>You can play this game from [here](https://erdal-nyr.itch.io/survivor-game)</br>
 
 ## What is Survivor Game ?
