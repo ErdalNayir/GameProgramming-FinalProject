@@ -1,0 +1,8 @@
+#Directories which will not be uploaded to github
+Logs/
+Library/
+Packages/
+
+#Files which will not be uploaded to github
+*.csproj
+*.sln
