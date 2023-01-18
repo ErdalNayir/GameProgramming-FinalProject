@@ -31,8 +31,8 @@ The game has two levels. I am going to explain them one by one;
 * We get our walls, materials, and assets from [Unity Assets Store](https://assetstore.unity.com/) 
 
 ## Developers and Task Management
-* Erdal Nayir(19360859049)
+* Erdal Nayir(19360859049)<br />
   He made main menu screen and first level and pause screen. 
-* Yakup Abaci(19360859045)
+* Yakup Abaci(19360859045)<br />
   He made second level and retry screen and finish screen.
 
