@@ -30,6 +30,9 @@ The game has two levels. I am going to explain them one by one;
 * We get our sounds from [Pixabay](https://pixabay.com/)
 * We get our walls, materials, and assets from [Unity Assets Store](https://assetstore.unity.com/) 
 
-### Developers
+## Developers and Task Management
 * Erdal Nayir(19360859049)
+  He made main menu screen and first level and pause screen. 
+* Yakup Abaci(19360859045)
+  He made second level and retry screen and finish screen.
 
