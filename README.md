@@ -18,4 +18,9 @@ The game has two levels. I am going to explain them one by one;
   * <b>Goal is you have to reach finish line to pass first level and proceed to second level.</b>
 
 * ### Second Level 
-  * MRB
+  * In second level you need to use <b>"WASD"</b> buttons for moving, <b>"Space"</b> for jumping and <b>"Mouse"</b> for camera rotation.
+  * You have to walk cross the glass path where a random glass has a random value assigned for determining the fragility of glass.
+  * If you walk over the glass whose value makes itself fragile, it will break and you will fall down and die.
+  * <b>Goal is you have to successfully guess which glass is fragile and which glass is not and walk cross the path by walk over the glasses which is not breakable.</b>
+  
+## Sources
