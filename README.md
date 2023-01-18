@@ -26,18 +26,18 @@ The game has two levels. I am going to explain them one by one;
   
 ## Sources
 
-* Sounds
+* <b>Sound</b>
   * Background Music: https://pixabay.com/music/beautiful-plays-inspiring-cinematic-ambient-116199/
   * Walking Sound: https://pixabay.com/sound-effects/foley-footsteps-desert-boots-sand-6900/
   * Second Level Background Music: https://www.youtube.com/watch?v=v9NQYKv2rTg
   * First Level Background Music: https://pixabay.com/sound-effects/happy-airlines-ym-2413-28411/
   * Glass Breaking Music: https://www.youtube.com/watch?v=6usDkAklxN4
-* Assets and Materials
+* <b> Assets and Materials</b>
   * Desert Objects: https://assetstore.unity.com/packages/3d/environments/free-low-poly-desert-pack-106709#reviews
   * Desert Ruins: https://assetstore.unity.com/packages/3d/environments/ancient-ruins-in-the-desert-part2-19178#reviews
   * Sand Material: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-sand-materials-12964#reviews
   * Wall Material: https://assetstore.unity.com/packages/2d/textures-materials/brick/18-high-resolution-wall-textures-12567#reviews 
-*3D Model and Animations
+* <b>3D Model and Animations</b>
   * Medea by m. arrebola: https://www.mixamo.com/#/?page=3&type=Character
   * Running: https://www.mixamo.com/#/?page=1&query=run&type=Motion%2CMotionPack
   * Two Handed Sword Death: https://www.mixamo.com/#/?page=1&query=death&type=Motion%2CMotionPack
