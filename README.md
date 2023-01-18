@@ -26,9 +26,30 @@ The game has two levels. I am going to explain them one by one;
   
 ## Sources
 
-* We get our animation and human model from [Mixamo](https://www.mixamo.com/#/)
-* We get our sounds from [Pixabay](https://pixabay.com/)
-* We get our walls, materials, and assets from [Unity Assets Store](https://assetstore.unity.com/) 
+* Sounds
+  * Background Music: https://pixabay.com/music/beautiful-plays-inspiring-cinematic-ambient-116199/
+  * Walking Sound: https://pixabay.com/sound-effects/foley-footsteps-desert-boots-sand-6900/
+  * Second Level Background Music: https://www.youtube.com/watch?v=v9NQYKv2rTg
+  * First Level Background Music: https://pixabay.com/sound-effects/happy-airlines-ym-2413-28411/
+  * Glass Breaking Music: https://www.youtube.com/watch?v=6usDkAklxN4
+* Assets and Materials
+  * Desert Objects: https://assetstore.unity.com/packages/3d/environments/free-low-poly-desert-pack-106709#reviews
+  * Desert Ruins: https://assetstore.unity.com/packages/3d/environments/ancient-ruins-in-the-desert-part2-19178#reviews
+  * Sand Material: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-sand-materials-12964#reviews
+  * Wall Material: https://assetstore.unity.com/packages/2d/textures-materials/brick/18-high-resolution-wall-textures-12567#reviews 
+*3D Model and Animations
+  * Medea by m. arrebola: https://www.mixamo.com/#/?page=3&type=Character
+  * Running: https://www.mixamo.com/#/?page=1&query=run&type=Motion%2CMotionPack
+  * Two Handed Sword Death: https://www.mixamo.com/#/?page=1&query=death&type=Motion%2CMotionPack
+  * Flair: https://www.mixamo.com/#/?page=1&query=flair&type=Motion%2CMotionPack
+  * Standing Idle: https://www.mixamo.com/#/?page=1&query=Standing+Idle&type=Motion%2CMotionPack
+  * Walking: https://www.mixamo.com/#/?page=1&query=Walking&type=Motion%2CMotionPack
+  * Backward walk: https://www.mixamo.com/#/?page=1&query=standing+walk+back&type=Motion%2CMotionPack
+  * Falling: https://www.mixamo.com/#/?page=1&query=fall&type=Motion%2CMotionPack
+  * Terrified: https://www.mixamo.com/#/?page=1&query=terrefied&type=Motion%2CMotionPack
+  * House Dancing: https://www.mixamo.com/#/?page=1&query=house+dancing&type=Motion%2CMotionPack
+  * Left walk: https://www.mixamo.com/#/?page=1&query=left+walk&type=Motion%2CMotionPack
+  * Right walk: https://www.mixamo.com/#/?page=1&query=standing+ealk+right&type=Motion%2CMotionPack
 
 ## Developers and Task Management
 * Erdal Nayir(19360859049)<br />
