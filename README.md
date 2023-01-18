@@ -29,3 +29,7 @@ The game has two levels. I am going to explain them one by one;
 * We get our animation and human model from [Mixamo](https://www.mixamo.com/#/)
 * We get our sounds from [Pixabay](https://pixabay.com/)
 * We get our walls, materials, and assets from [Unity Assets Store](https://assetstore.unity.com/) 
+
+### Developers
+* Erdal Nayir(19360859049)
+
